@@ -1,5 +1,5 @@
 #  SaaS User Churn & Retention Analytics Pipeline
-# Read the full Product & Analytics Case Study (with System Diagrams) here: 
+## Read the full Product & Analytics Case Study (with System Diagrams) here: 
 https://illustrious-lifter-586.notion.site/PRD-Resolving-User-Churn-in-the-Import-Contacts-Flow-3b6cd8399d6a80248593c144f0faac72?source=copy_link
 ## Executive Summary
 This project acts as the technical foundation for a Product Management case study. I architected a cloud-hosted PostgreSQL database and analyzed a 1,000-user cohort to identify a critical bottleneck. The analysis uncovered that users interacting with the `Import_Contacts` feature experienced a **70% churn rate**, leading to a proposal for a new asynchronous system architecture.
